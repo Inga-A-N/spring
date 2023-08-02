@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-UruguayspringintroApplication<uruguayspringintro>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "io.nology.uruguayspringintro.UruguayspringintroApplication",
+      "projectName": "uruguayspringintro",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
